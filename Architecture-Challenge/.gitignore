@@ -1,0 +1,9 @@
+target/
+logs/
+.pids/
+node_modules/
+dist/
+.DS_Store
+Desafio_Architecture_Challenge (1).pdf
+Grupo3_Sorveteria.zip
+*.pdf
